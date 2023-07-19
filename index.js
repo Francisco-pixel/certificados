@@ -10,7 +10,7 @@ const data = require('./data/api.json'); // Importa los datos del archivo JSON
 
 const app = express();
 const port = 3000; // Puedes cambiar el puerto según tus necesidades
-const ruta='/api/data/';
+const ruta='/certificados/';
 app.get(ruta, (req, res) => {
   res.json(data); // Envía los datos como respuesta en formato JSON
 });
