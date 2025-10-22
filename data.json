@@ -68,8 +68,8 @@
         "certificado": "CERTIFICATE_LANDING_PAGE~0THFKCCG70QV.jpeg",
         "horas": 14,
         "dia": 22,
-        "instructor": "Lin Joyner",
-        "academia": "ibm"
+        "instructor": "Lin Joyner IBM",
+        "academia": "coursera"
       }  
     ]
   },
@@ -77,7 +77,7 @@
     "udemy":{
        "imagen": "https://udemy-certificate.s3.amazonaws.com/image/UC-"
     },
-    "ibm":{
+    "coursera":{
       "imagen":"https://udemy-certificate.s3.amazonaws.com/image/"
     }
    
