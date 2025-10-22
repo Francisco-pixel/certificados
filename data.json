@@ -78,7 +78,7 @@
        "imagen": "https://udemy-certificate.s3.amazonaws.com/image/UC-"
     },
     "coursera":{
-      "imagen":"https://udemy-certificate.s3.amazonaws.com/image/"
+      "imagen":"https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0THFKCCG70QV/"
     }
    
   }
