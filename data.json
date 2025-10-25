@@ -65,21 +65,28 @@
     "9":[
       {
         "nombre": "Introduction to Software Engineering",
-        "certificado": "CERTIFICATE_LANDING_PAGE~0THFKCCG70QV.jpeg",
+        "certificado": "0THFKCCG70QV/CERTIFICATE_LANDING_PAGE~0THFKCCG70QV.jpeg",
         "horas": 14,
         "dia": 22,
-        "instructor": "Lin Joyner IBM",
+        "instructor": "Lin Joyner, Senior Instructional Designer",
         "academia": "coursera"
-      }  
+      },
+       {
+        "nombre": "Introduction to HTML, CSS, & JavaScript",
+        "certificado": "W4AV0CSX5T24/CERTIFICATE_LANDING_PAGE~W4AV0CSX5T24.jpeg",
+        "horas": 14,
+        "dia": 24,
+        "instructor": "Michelle Saltoun, Software Developer",
+        "academia": "coursera"
+      } 
     ]
   },
   "baseURL": {
     "udemy":{
-       "imagen": "https://udemy-certificate.s3.amazonaws.com/image/UC-"
+       "dirCertificado": "https://udemy-certificate.s3.amazonaws.com/image/UC-"
     },
     "coursera":{
-      "imagen":"https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0THFKCCG70QV/"
+      "dirCertificado":"https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~"
     }
-   
   }
 }
