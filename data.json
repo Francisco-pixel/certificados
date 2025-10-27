@@ -78,7 +78,15 @@
         "dia": 24,
         "instructor": "Michelle Saltoun, Software Developer",
         "academia": "coursera"
-      } 
+      },
+      {
+        "nombre": "Getting Started width Git and Github",
+        "certificado": "MTH2SF7UTQEB/CERTIFICATE_LANDING_PAGE~MTH2SF7UTQEB.jpeg",
+        "horas": 10,
+        "dia": 27,
+        "instructor": "Upkar Lidder",
+        "academia": "coursera"
+      }
     ]
   },
   "baseURL": {
