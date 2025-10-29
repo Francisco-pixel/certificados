@@ -86,6 +86,14 @@
         "dia": 27,
         "instructor": "Upkar Lidder",
         "academia": "coursera"
+      },
+      {
+        "nombre": "JavaScript Programming Essentials",
+        "certificado": "YHDLPCH0B9NA/CERTIFICATE_LANDING_PAGE~YHDLPCH0B9NA.jpeg",
+        "horas": 16,
+        "dia": 29,
+        "instructor": "Rav Ahuja",
+        "academia": "coursera"
       }
     ]
   },
