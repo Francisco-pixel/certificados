@@ -94,6 +94,16 @@
         "dia": 29,
         "instructor": "Rav Ahuja",
         "academia": "coursera"
+      }      
+    ],
+    "10":[
+      {
+        "nombre": "Developing Front-End Apps Width React",
+        "certificado": "LVTMDXFM8WRT/CERTIFICATE_LANDING_PAGE~LVTMDXFM8WRT.jpeg",
+        "horas": 14,
+        "dia": 05,
+        "instructor": "Rav Ahuja",
+        "academia": "coursera"
       }
     ]
   },
