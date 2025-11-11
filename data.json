@@ -104,6 +104,14 @@
         "dia": 5,
         "instructor": "Rav Ahuja",
         "academia": "coursera"
+      },
+      {
+        "nombre": "Developing Back-End Apps Width Node.js and Express",
+        "certificado": "U0DEVKZY5JF1/CERTIFICATE_LANDING_PAGE~U0DEVKZY5JF1.jpeg",
+        "horas": 13,
+        "dia": 11,
+        "instructor": "Upkar Lidder",
+        "academia": "coursera"
       }
     ]
   },
