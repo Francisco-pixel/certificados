@@ -65,7 +65,7 @@
     "9":[
       {
         "nombre": "Introduction to Software Engineering",
-        "certificado": "0THFKCCG70QV/CERTIFICATE_LANDING_PAGE~0THFKCCG70QV.jpeg",
+        "certificado": "0THFKCCG70QV",
         "horas": 14,
         "dia": 22,
         "instructor": "Lin Joyner, Senior Instructional Designer",
@@ -73,7 +73,7 @@
       },
        {
         "nombre": "Introduction to HTML, CSS, & JavaScript",
-        "certificado": "W4AV0CSX5T24/CERTIFICATE_LANDING_PAGE~W4AV0CSX5T24.jpeg",
+        "certificado": "W4AV0CSX5T24",
         "horas": 14,
         "dia": 24,
         "instructor": "Michelle Saltoun, Software Developer",
@@ -81,7 +81,7 @@
       },
       {
         "nombre": "Getting Started width Git and Github",
-        "certificado": "MTH2SF7UTQEB/CERTIFICATE_LANDING_PAGE~MTH2SF7UTQEB.jpeg",
+        "certificado": "MTH2SF7UTQEB",
         "horas": 10,
         "dia": 27,
         "instructor": "Upkar Lidder",
@@ -89,7 +89,7 @@
       },
       {
         "nombre": "JavaScript Programming Essentials",
-        "certificado": "YHDLPCH0B9NA/CERTIFICATE_LANDING_PAGE~YHDLPCH0B9NA.jpeg",
+        "certificado": "YHDLPCH0B9NA",
         "horas": 16,
         "dia": 29,
         "instructor": "Rav Ahuja",
@@ -99,7 +99,7 @@
     "10":[
       {
         "nombre": "Developing Front-End Apps Width React",
-        "certificado": "LVTMDXFM8WRT/CERTIFICATE_LANDING_PAGE~LVTMDXFM8WRT.jpeg",
+        "certificado": "LVTMDXFM8WRT",
         "horas": 14,
         "dia": 5,
         "instructor": "Rav Ahuja",
@@ -107,10 +107,18 @@
       },
       {
         "nombre": "Developing Back-End Apps Width Node.js and Express",
-        "certificado": "U0DEVKZY5JF1/CERTIFICATE_LANDING_PAGE~U0DEVKZY5JF1.jpeg",
+        "certificado": "U0DEVKZY5JF1",
         "horas": 13,
         "dia": 11,
         "instructor": "Upkar Lidder",
+        "academia": "coursera"
+      },
+      {
+        "nombre": "Get Started width Cloud Native, DevOps, Agile, and NoSQL",
+        "certificado": "TX4WN8KWSKG5",
+        "horas": 13,
+        "dia": 20,
+        "instructor": "Rav Ahuja",
         "academia": "coursera"
       }
     ]
@@ -120,7 +128,7 @@
        "dirCertificado": "https://udemy-certificate.s3.amazonaws.com/image/UC-"
     },
     "coursera":{
-      "dirCertificado":"https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~"
+      "dirCertificado":"https://coursera-certificate-images.s3.amazonaws.com/"
     }
   }
 }
