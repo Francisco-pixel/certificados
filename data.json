@@ -120,6 +120,14 @@
         "dia": 20,
         "instructor": "Rav Ahuja",
         "academia": "coursera"
+      },
+      {
+        "nombre": "Introduction to Containers w/ Docker, Kubernetes & OpenShift",
+        "certificado": "Q1JCB9PBD60J",
+        "horas": 17,
+        "dia": 25,
+        "instructor": "Alex Parker",
+        "academia": "coursera"
       }
     ]
   },
