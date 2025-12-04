@@ -7,7 +7,7 @@
         "horas": 1.5,
         "dia": 13,
         "instructor": "Luís Orlando Muñoz Bueno",
-        "academia":"udemy"
+        "academia": "udemy"
       },
       {
         "nombre": "Learn Python - Python Fundamentals for Beginners",
@@ -15,7 +15,7 @@
         "horas": 1.5,
         "dia": 17,
         "instructor": "Onur Baltaci",
-        "academia":"udemy"
+        "academia": "udemy"
       },
       {
         "nombre": "Universidad CSS - Aprende CSS desde Cero Hasta Experto",
@@ -23,7 +23,7 @@
         "horas": 7.5,
         "dia": 15,
         "instructor": "Ing. Ubaldo Acosta",
-        "academia":"udemy"
+        "academia": "udemy"
       },
       {
         "nombre": "Desarrollo de Aplicaciones Web Con JavaScript (Edición 2022)",
@@ -31,7 +31,7 @@
         "horas": 7,
         "dia": 3,
         "instructor": "Yirsis Serrano",
-        "academia":"udemy"
+        "academia": "udemy"
       },
       {
         "nombre": "JavaScript: Desde Cero con NodeJS",
@@ -39,7 +39,7 @@
         "horas": 12,
         "dia": 1,
         "instructor": "Geovanny Gabriel",
-        "academia":"udemy"
+        "academia": "udemy"
       }
     ],
     "5": [
@@ -49,7 +49,7 @@
         "horas": 6,
         "dia": 14,
         "instructor": "Josh Werner",
-        "academia":"udemy"
+        "academia": "udemy"
       },
       {
         "nombre": "JavaScript - Basics to Advanced step by step [2023]",
@@ -57,12 +57,13 @@
         "horas": 10,
         "dia": 23,
         "instructor": "Qaifi Khan",
-        "academia":"udemy"
+        "academia": "udemy"
       }
     ]
   },
-  "2025":{
-    "9":[
+
+  "2025": {
+    "9": [
       {
         "nombre": "Introduction to Software Engineering",
         "certificado": "0THFKCCG70QV",
@@ -71,7 +72,7 @@
         "instructor": "Lin Joyner, Senior Instructional Designer",
         "academia": "coursera"
       },
-       {
+      {
         "nombre": "Introduction to HTML, CSS, & JavaScript",
         "certificado": "W4AV0CSX5T24",
         "horas": 14,
@@ -80,7 +81,7 @@
         "academia": "coursera"
       },
       {
-        "nombre": "Getting Started width Git and Github",
+        "nombre": "Getting Started with Git and GitHub",
         "certificado": "MTH2SF7UTQEB",
         "horas": 10,
         "dia": 27,
@@ -94,11 +95,11 @@
         "dia": 29,
         "instructor": "Rav Ahuja",
         "academia": "coursera"
-      }      
+      }
     ],
-    "10":[
+    "10": [
       {
-        "nombre": "Developing Front-End Apps Width React",
+        "nombre": "Developing Front-End Apps with React",
         "certificado": "LVTMDXFM8WRT",
         "horas": 14,
         "dia": 5,
@@ -106,7 +107,7 @@
         "academia": "coursera"
       },
       {
-        "nombre": "Developing Back-End Apps Width Node.js and Express",
+        "nombre": "Developing Back-End Apps with Node.js and Express",
         "certificado": "U0DEVKZY5JF1",
         "horas": 13,
         "dia": 11,
@@ -114,7 +115,7 @@
         "academia": "coursera"
       },
       {
-        "nombre": "Get Started width Cloud Native, DevOps, Agile, and NoSQL",
+        "nombre": "Get Started with Cloud Native, DevOps, Agile, and NoSQL",
         "certificado": "TX4WN8KWSKG5",
         "horas": 13,
         "dia": 20,
@@ -130,14 +131,14 @@
         "academia": "coursera"
       }
     ],
-    "11":[
+    "11": [
       {
         "nombre": "Application Development using Microservices and Serverless",
         "certificado": "G1SL8ITGOB10",
         "horas": 14,
         "dia": 2,
         "instructor": "Alex Parker",
-        "academia": "coursera"  
+        "academia": "coursera"
       },
       {
         "nombre": "Node.js & MongoDB: Developing Back-end Database Applications",
@@ -145,16 +146,56 @@
         "horas": 19,
         "dia": 4,
         "instructor": "Ramanujam Srinivasan",
-        "academia": "coursera"  
+        "academia": "coursera"
+      },
+      {
+        "nombre": "JavaScript Full Stack Capstone Project",
+        "certificado": "QZRW9RPXG57V",
+        "horas": 20,
+        "dia": 4,
+        "instructor": "Upkar Lidder",
+        "academia": "coursera"
+      },
+      {
+        "nombre": "Software Developer Career Guide and Interview Preparation",
+        "certificado": "7TN7DOMWH4N5",
+        "horas": 11,
+        "dia": 4,
+        "instructor": "Rav Ahuja",
+        "academia": "coursera"
       }
     ]
   },
+
   "baseURL": {
-    "udemy":{
-       "dirCertificado": "https://udemy-certificate.s3.amazonaws.com/image/UC-"
+    "udemy": {
+      "dirCertificado": "https://udemy-certificate.s3.amazonaws.com/image/UC-",
+      "extension": ".jpg"
     },
-    "coursera":{
-      "dirCertificado":"https://coursera-certificate-images.s3.amazonaws.com/"
+    "coursera": {
+      "dirCertificado": "https://coursera-certificate-images.s3.amazonaws.com/",
+      "extension": ".png"
+    },
+    "coursera_professional": {
+      "prefix": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~",
+      "suffix": "/CERTIFICATE_LANDING_PAGE~",
+      "extension": ".jpeg"
     }
+  },
+  "certificaciones": {
+    "descripcion": "Certificaciones profesionales completas que engloban varios cursos",
+    "lista": [
+      {
+        "nombre": "IBM Full-Stack JavaScript Developer Professional Certificate",
+        "codigo": "SB802TKJAGXK",
+        "url": "SB802TKJAGXK.jpeg",
+        "horas_totales": 175,
+        "fecha_completado": "2025-12-04",
+        "instructor": "IBM Skills Network Team",
+        "academia": "coursera_professional",
+        "cursos_incluidos": 12,
+        "credly_badge": "pendiente"  
+      }
+    ]
   }
 }
