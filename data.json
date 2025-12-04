@@ -137,7 +137,16 @@
         "horas": 14,
         "dia": 2,
         "instructor": "Alex Parker",
-        "academia": "coursera"      
+        "academia": "coursera"  
+      },
+      {
+        "nombre": "Node.js & MongoDB: Developing Back-end Database Applications",
+        "certificado": "G1SL8ITGOB10",
+        "horas": 19,
+        "dia": 4,
+        "instructor": "Ramanujam Srinivasan",
+        "academia": "coursera"  
+      }
     ]
   },
   "baseURL": {
