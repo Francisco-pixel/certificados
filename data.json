@@ -163,6 +163,14 @@
         "dia": 4,
         "instructor": "Rav Ahuja",
         "academia": "coursera"
+      },
+      {
+        "nombre": "Full Stack Software Developer Assessment",
+        "certificado": "J79AQNS7X5FF",
+        "horas": 6,
+        "dia": 11,
+        "instructor": "Rav Ahuja",
+        "academia": "coursera"
       }
     ]
   },
